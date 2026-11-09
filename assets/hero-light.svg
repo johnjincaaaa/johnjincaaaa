@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#eefbfd"/><stop offset="45%" stop-color="#e6f7fa"/><stop offset="100%" stop-color="#eef4f8"/></linearGradient>
+    <linearGradient id="name" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0b6e8a"/><stop offset="52%" stop-color="#1098ad"/><stop offset="100%" stop-color="#22b8cf"/></linearGradient>
+    <linearGradient id="cell" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1098ad"/><stop offset="100%" stop-color="#22b8cf"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="300" cy="272" r="88" fill="#d6f2f8" opacity="0.55"/>
+  <circle cx="984" cy="50" r="76" fill="#d9eef7" opacity="0.55"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" fill="none" stroke="#cdeef4" stroke-width="2"/>
+  <g fill="url(#cell)">
+    <rect x="850" y="100" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="898" y="100" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="946" y="100" width="36" height="36" rx="10" opacity="0.55"/>
+    <rect x="994" y="100" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="1042" y="100" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="1090" y="100" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="850" y="148" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="898" y="148" width="36" height="36" rx="10" opacity="0.60"/>
+    <rect x="946" y="148" width="36" height="36" rx="10" opacity="0.85"/>
+    <rect x="994" y="148" width="36" height="36" rx="10" opacity="0.55"/>
+    <rect x="1042" y="148" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="1090" y="148" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="850" y="196" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="898" y="196" width="36" height="36" rx="10" opacity="0.85"/>
+    <rect x="946" y="196" width="36" height="36" rx="10" opacity="1.00"/>
+    <rect x="994" y="196" width="36" height="36" rx="10" opacity="0.85"/>
+    <rect x="1042" y="196" width="36" height="36" rx="10" opacity="0.60"/>
+    <rect x="1090" y="196" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="850" y="244" width="36" height="36" rx="10" opacity="0.30"/>
+    <rect x="898" y="244" width="36" height="36" rx="10" opacity="0.55"/>
+    <rect x="946" y="244" width="36" height="36" rx="10" opacity="0.85"/>
+    <rect x="994" y="244" width="36" height="36" rx="10" opacity="1.00"/>
+    <rect x="1042" y="244" width="36" height="36" rx="10" opacity="0.85"/>
+    <rect x="1090" y="244" width="36" height="36" rx="10" opacity="0.30"/>
+  </g>
+  <g fill="#17a2b8">
+    <path d="M146 45Q146 58 159 58Q146 58 146 71Q146 58 133 58Q146 58 146 45Z" opacity="0.85"/>
+    <path d="M1146 50Q1146 60 1156 60Q1146 60 1146 70Q1146 60 1136 60Q1146 60 1146 50Z" opacity="0.75"/>
+    <path d="M1092 297Q1092 304 1099 304Q1092 304 1092 311Q1092 304 1085 304Q1092 304 1092 297Z" opacity="0.65"/>
+    <path d="M828 290Q828 296 834 296Q828 296 828 302Q828 296 822 296Q828 296 828 290Z" opacity="0.55"/>
+    <path d="M708 94Q708 102 716 102Q708 102 708 110Q708 102 700 102Q708 102 708 94Z" opacity="0.6"/>
+  </g>
+  <g font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+    <text x="80" y="130" font-size="60" font-weight="700" fill="url(#name)">欧锦财</text>
+    <text x="282" y="130" font-size="32" font-weight="500" fill="#7d93a0">· Johnjincaaaa</text>
+    <text x="82" y="190" font-size="25" fill="#2b4048">仓一程，commit 一程，身向 bug 那畔行</text>
+    <text x="82" y="232" font-size="18" fill="#7d93a0">—— 改自 纳兰性德《长相思》</text>
+  </g>
+</svg>
